@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **How can I improve, what can I do to fix my errors, how can I make the program work or look better, and mostly anything.**
 
-- 📫 How to reach me **crazybendon9876@gmail.com (I rarely check it)**
+- 📫 How to reach me **crazybendon9876@gmail.com**
 
 - ⚡ Fun fact **I am also studying to be a psychiatrist**
 
