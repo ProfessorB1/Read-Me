@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">I am currently wokring to be a software engineer and cybersecurity</h3>
+<h3 align="center">I am currently going to study on the Fall, 2024 to be a computer engineer and cybersecurity graduate</h3>
 
-- 🔭 I’m currently working on **a cumulative GPA calculator or miniature project for a class**
+- 🔭 I’m currently working on **a cumulative GPA calculator and a menu in python and C++**
 
-- 🌱 I’m currently learning **C++, and python, and might also refresh my front-end skills**
+- 🌱 I’m currently learning **C++, and Python, I will also learn Reactjs to make websites and other type of projects that could help me enchance my skills**
 
-- 👯 I’m looking to collaborate on **an project or service that can help me improve myself**
+- 👯 I’m looking to collaborate on **any projects or with teams that can help me improve my skills as well as benefit the project and the team as well**
 
-- 🤝 I’m looking for help with **Full stack development, Cybersecurity, C++, python, and network security**
+- 🤝 I’m looking for help with **coding projects, computer engineer and network security**
 
-- 💬 Ask me about **How can I improve, what can I do to fix my errors, how can I make the program work or look better, and mostly anything.**
+- 💬 Ask me about **How can I improve, what can I do to fix my errors, how could we collaborate or work together.**
 
-- 📫 How to reach me **crazybendon9876@gmail.com**
+- 📫 How to reach me **crazybendon@gmail.com**
 
-- ⚡ Fun fact **I am also studying to be a psychiatrist**
+- ⚡ Fun fact **I am I wanna create a sensor with a built AI as well as a hoverboard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
