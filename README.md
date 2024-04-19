@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **How can I improve, what can I do to fix my errors, how could we collaborate or work together.**
 
-- 📫 How to reach me **crazybendon9876@gmail.com**
+- 📫 The best way to reach me will be in my LinkedIn "www.linkedin.com/in/austin-farias-57311621b"
 
 - ⚡ Fun fact **I am I wanna create a sensor with a built AI as well as a hoverboard**
 
