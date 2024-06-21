@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">I am currently going to study on the Fall, 2024 to be a computer engineer and cybersecurity graduate</h3>
 
-- 🔭 I’m currently working on **a cumulative GPA calculator and a menu in python and C++**
+- 🔭 I’m currently working on **with python and C++, as well as creating projects with these languages and trying to implement java into it**
 
 - 🌱 I’m currently learning **C++, and Python, I will also learn Reactjs to make websites and other type of projects that could help me enchance my skills**
 
